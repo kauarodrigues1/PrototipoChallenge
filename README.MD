@@ -23,7 +23,7 @@ Este projeto foi desenvolvido para o Hospital Sabará com o objetivo de entreter
 ## 📊 Diagrama do Sistema
 
 > *(Inserir aqui o diagrama no formato Draw.io)*  
-> Exemplo: ![Diagrama do sistema](link_para_imagem_ou_gif)
+> Exemplo: ![Diagrama do sistema](assets/challengeP.drawio.png)
 
 ---
 
