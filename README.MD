@@ -17,6 +17,7 @@ Este projeto foi desenvolvido para o Hospital Sabará com o objetivo de entreter
 - Enquanto a criança interage com o piano, sensores coletam os dados de **oxigenação sanguínea (SpO2)** e **batimentos cardíacos (BPM)**.
 - As informações são transmitidas para um **dashboard interativo** hospedado em uma **máquina virtual Linux (Ubuntu)** na plataforma **Microsoft Azure**.
 
+![Dashboard do projeto](assets/dashboard.png)
 ---
 
 ## 📊 Diagrama do Sistema
