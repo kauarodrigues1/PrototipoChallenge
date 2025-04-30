@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para o Hospital Sabará com o objetivo de entreter
 
 ## 📊 Diagrama do Sistema
 
-[Diagrama do sistema](assets/chalengeP.drawio.png)
+> ![Diagrama do sistema](assets/chalengeP.drawio.png)
 
 ---
 
