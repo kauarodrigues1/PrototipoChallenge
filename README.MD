@@ -59,3 +59,5 @@ Este projeto foi desenvolvido para o Hospital Sabará com o objetivo de entreter
 ---
 
 > Projeto desenvolvido com foco em **tecnologia assistiva** e **humanização no ambiente hospitalar infantil**. 💙
+
+![Prototipo funcionando](assets/prototipo.jpeg)
