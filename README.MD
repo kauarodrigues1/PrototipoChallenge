@@ -4,7 +4,6 @@
 > **Integrantes:**  
 > - Kauã Rodrigues  
 > - Felipe Marceli  
-> - Gustavo Naoto  
 
 ---
 
